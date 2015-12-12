@@ -73,6 +73,5 @@ public class Placer : MonoBehaviour {
 		} else {
 			Cursor.visible = true;
 		}
-		overlapCount = 0;
 	}
 }
